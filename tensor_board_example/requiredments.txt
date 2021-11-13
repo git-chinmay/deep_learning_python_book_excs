@@ -1,0 +1,10 @@
+Numpy
+Pandas
+Scikit-learn
+Matplotlib
+tensorflow
+keras
+notebook
+pydot
+grphviz
+pydot-ng
