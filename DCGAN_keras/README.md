@@ -8,11 +8,13 @@ We can train with different learning rate and iteration count as a start.
 
 ### Generated image
 
-![1st Generated image](/images/generated_frog0.png)
-![91th Generated image](/images/generated_frog91.png)
-![105th Generated image](/images/generated_frog105.png)
+![1st Generated image](./images/generated_frog0.png)
+
+![91th Generated image](./images/generated_frog91.png)
+
+![105th Generated image](./images/generated_frog105.png)
 
 ### Original image
-![Real frog image](/images/real_frog0.png)
+![Real frog image](./images/real_frog0.png)
 
  
