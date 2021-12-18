@@ -8,13 +8,13 @@ We can train with different learning rate and iteration count as a start.
 
 ### Generated image
 
-![1st Generated image](/images/generated_frog0.PNG)
+![1st Generated image](https://github.com/git-chinmay/deep_learning_python_book_excs/blob/master/DCGAN_keras/images/generated_frog0.png)
 
-![91th Generated image](/images/generated_frog91.PNG)
+![91th Generated image](https://github.com/git-chinmay/deep_learning_python_book_excs/blob/master/DCGAN_keras/images/generated_frog91.png)
 
-![105th Generated image](/images/generated_frog105.PNG)
+![105th Generated image](https://github.com/git-chinmay/deep_learning_python_book_excs/blob/master/DCGAN_keras/images/generated_frog105.png)
 
 ### Original image
-![Real frog image](/images/real_frog0.PNG)
+![Real frog image](https://github.com/git-chinmay/deep_learning_python_book_excs/blob/master/DCGAN_keras/images/real_frog0.png)
 
  
